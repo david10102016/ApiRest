@@ -1,0 +1,8 @@
+/vendor/
+.env
+*.log
+*.lock
+.idea/
+*.sql
+.DS_Store
+node_modules/
